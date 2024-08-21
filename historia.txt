@@ -1,7 +1,3 @@
 esta es mi historia aprendiendo git
 
 esta historia sera contada
-
-hoy hablara de mi historia
-
-agregare una nueva linea
