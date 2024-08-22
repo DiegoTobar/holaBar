@@ -2,6 +2,6 @@ esta es mi historia aprendiendo git
 
 esta historia sera contada
 
-master 1
+experimento 1
 
-master 2
+master 1
