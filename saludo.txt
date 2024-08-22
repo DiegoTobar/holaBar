@@ -2,3 +2,4 @@ hola como estas ?
 de donde eres?
 cuantos años tienes?
 quieres aprender git?
+conocias git cherry-pick
